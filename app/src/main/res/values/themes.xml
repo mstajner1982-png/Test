@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SigDuty" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/md_theme_light_primary</item>
+        <item name="android:windowBackground">@color/md_theme_light_background</item>
+    </style>
+</resources>
